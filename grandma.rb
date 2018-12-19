@@ -10,7 +10,7 @@ if phrase != phrase.upcase
 elsif phrase == phrase.upcase
   return "NO, NOT SINCE 1938!"
 # NO, NOT SINCE 1938!
-elsif phrase == "I LOVE YOU GRANDMA"
+elsif phrase == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
